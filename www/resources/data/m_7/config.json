@@ -1,0 +1,37 @@
+{
+    "id": "m_7",
+    "title": "m_base1",
+    "key": "MeshPhongMaterial",
+    "obj": {
+        "type": "MeshPhongMaterial",
+        "color": "#f1f1f1",
+        "skinning": false,
+        "flatShading": false,
+        "depthFunc": 3,
+        "blending": 1,
+        "side": 0,
+        "opacity": 1,
+        "transparent": false,
+        "alphaTest": 0,
+        "wireframe": false,
+        "reflectivity": 0.09999999999999998,
+        "refractionRatio": 0.98,
+        "shininess": 58.54,
+        "specular": "#050505",
+        "textur": [
+            {
+                "link": "resources/data/m_7/textur/atlos111s3.png",
+                "l": "atlos111s3.png",
+                "name": "map",
+                "rx": 1,
+                "ry": "-1"
+            }
+        ],
+        "emissive": "#000000"
+    },
+    "mirro": false,
+    "orig": "original.png",
+    "resurs": {
+        "array": []
+    }
+}

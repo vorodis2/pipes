@@ -1,0 +1,37 @@
+{
+    "id": "m_45",
+    "title": "title_m_45",
+    "key": "MeshStandardMaterial",
+    "obj": {
+        "type": "MeshStandardMaterial",
+        "color": "#dfdfdf",
+        "skinning": false,
+        "flatShading": false,
+        "depthFunc": 3,
+        "blending": 1,
+        "side": 0,
+        "opacity": 1,
+        "transparent": false,
+        "alphaTest": 0,
+        "wireframe": false,
+        "reflectivity": 1,
+        "refractionRatio": 0.98,
+        "textur": [
+            {
+                "link": "resources/data/m_45/textur/ee.jpg",
+                "l": "ee.jpg",
+                "name": "map",
+                "rx": 4,
+                "ry": 4
+            }
+        ],
+        "roughness": 0.5,
+        "metalness": 0.5,
+        "emissive": "#000000"
+    },
+    "mirro": false,
+    "resurs": {
+        "array": []
+    },
+    "orig": "xz.png"
+}

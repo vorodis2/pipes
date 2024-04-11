@@ -1,0 +1,37 @@
+{
+    "id": "m_41",
+    "title": "title_m_41",
+    "key": "MeshPhongMaterial",
+    "obj": {
+        "type": "MeshPhongMaterial",
+        "color": "#f4f3d7",
+        "skinning": false,
+        "flatShading": false,
+        "depthFunc": 3,
+        "blending": 1,
+        "side": 0,
+        "opacity": 1,
+        "transparent": false,
+        "alphaTest": 0,
+        "wireframe": false,
+        "reflectivity": 0.09,
+        "refractionRatio": 0.08,
+        "emissive": "#000000",
+        "specular": "#111111",
+        "shininess": 44.23,
+        "textur": [
+            {
+                "link": "resources/data/m_41/textur/normal3.jpg",
+                "l": "normal3.jpg",
+                "name": "normalMap",
+                "rx": "10",
+                "ry": "10"
+            }
+        ]
+    },
+    "mirro": 1,
+    "resurs": {
+        "array": []
+    },
+    "orig": "xz.png"
+}

@@ -1,0 +1,29 @@
+{
+    "id": "m_6",
+    "title": "m_d5",
+    "key": "MeshPhongMaterial",
+    "obj": {
+        "type": "MeshPhongMaterial",
+        "color": "#49ccfc",
+        "skinning": false,
+        "flatShading": false,
+        "depthFunc": 3,
+        "blending": 1,
+        "side": 0,
+        "opacity": 0.32,
+        "transparent": true,
+        "alphaTest": 0,
+        "wireframe": false,
+        "reflectivity": 1,
+        "refractionRatio": 0.98,
+        "textur": [],
+        "shininess": 31.36,
+        "emissive": "#000000",
+        "specular": "#111111"
+    },
+    "mirro": true,
+    "orig": "Screenshot_5.png",
+    "resurs": {
+        "array": []
+    }
+}

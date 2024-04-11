@@ -1,0 +1,75 @@
+{
+    "id": 172,
+    "title": 172,
+    "key": "o_172",
+    "bool": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "num": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "str": [
+        "BGroup",
+        "{|type|:|BPieceTop|,|id|:14,|x|:125.72630678614715,|y|:200.39177017629902,|children|:[{|type|:|BPieceObject|,|id|:24,|x|:0,|y|:0,|intSah|:0,|intSah1|:0,|hrenNiz|:{|intSah|:0,|intSah1|:0},|polka1|:|null|,|polka|:true,|plusR|:false,|plusL|:false,|children|:[],|idColor|:|m_8|,|sahSuper|:null,|up1|:false},{|type|:|BPieceObject|,|id|:24,|x|:0,|y|:-105.60000000000001,|intSah|:0,|intSah1|:0,|hrenNiz|:{|intSah|:0,|intSah1|:-1},|polka1|:|null|,|polka|:false,|plusR|:false,|plusL|:false,|children|:[],|idColor|:|m_8|,|sahSuper|:null,|up1|:false}],|visiNisu|:{|array|:[{|x|:-30,|h|:113.39833495437007,|h1|:115.6},{|x|:30,|h|:113.39833495437007,|h1|:115.6}]}}",
+        "0",
+        "0",
+        "0",
+        "0"
+    ],
+    "orig": "low_1.jpg",
+    "mod": {
+        "key": "n",
+        "name": "n",
+        "r": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "r1": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "plus": [
+        "N",
+        "-",
+        "N",
+        "N",
+        "N"
+    ],
+    "plus1": [
+        "N",
+        "N",
+        "N",
+        "N",
+        "N"
+    ],
+    "priority": 0,
+    "bagY": 0,
+    "resurs": {
+        "array": []
+    },
+    "param": {
+        "tOt": false,
+        "tNa": false,
+        "rO": -1,
+        "kesh": false,
+        "sG": false,
+        "clone": true
+    }
+}

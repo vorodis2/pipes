@@ -1,0 +1,116 @@
+{
+    "id": 303,
+    "title": 303,
+    "key": "o_303",
+    "orig": "Screenshot_1.png",
+    "mod": {
+        "key": "glb",
+        "name": "scene (24).glb",
+        "r": [
+            -3,
+            0.007,
+            -5,
+            6,
+            6.993,
+            10
+        ],
+        "r1": [
+            -3,
+            0.007,
+            -5,
+            6,
+            6.993,
+            10
+        ]
+    },
+    "param": {
+        "tOt": false,
+        "tNa": false,
+        "rO": -1,
+        "kesh": false,
+        "sG": false,
+        "clone": true
+    },
+    "bool": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "num": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "str": [
+        "BPipe",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0"
+    ],
+    "priority": 100,
+    "bagY": 0,
+    "plus": [
+        "xz1",
+        "0",
+        "0",
+        "0",
+        "0"
+    ],
+    "plus1": [
+        "xz1",
+        "0",
+        "0",
+        "0",
+        "0"
+    ],
+    "resurs": {
+        "array": []
+    },
+    "pipes": {
+        "array": [
+            {
+                "position": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 1
+                },
+                "rotation": {
+                    "x": 180,
+                    "y": 0
+                },
+                "diameter": 20,
+                "type": 0
+            },
+            {
+                "position": {
+                    "x": 0,
+                    "y": 4,
+                    "z": 3
+                },
+                "rotation": {
+                    "x": -90,
+                    "y": 0
+                },
+                "diameter": 20,
+                "type": 0
+            },
+            {
+                "position": {
+                    "x": 0,
+                    "y": -4,
+                    "z": 3
+                },
+                "rotation": {
+                    "x": 90,
+                    "y": 0
+                },
+                "diameter": 20,
+                "type": 0
+            }
+        ]
+    }
+}
